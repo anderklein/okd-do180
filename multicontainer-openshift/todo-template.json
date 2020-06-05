@@ -25,7 +25,7 @@
       "spec": {
         "containers": [
           {
-            "image": "docker.io/usuario_dockerhub/s5c7tg2-mysql:5.7", 
+            "image": "docker.io/anderklein/s5c7tg2-mysql:5.7", 
             "name": "mysql",
             "env": [
               {
